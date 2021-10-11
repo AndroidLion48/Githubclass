@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java Script and Android Auto
 - 💞️ I’m looking to collaborate on Android Auto application development
 - 📫 How to reach me Clarence.moore1992@gmail.com
+- Get some
 
 <!---
 AndroidLion48/AndroidLion48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
