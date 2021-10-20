@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndroidLion48
 - 👀 I’m interested in Android Application Programming
-- 🌱 I’m currently learning Java Script and Android Auto
-- 💞️ I’m looking to collaborate on Android Auto application development
+- 🌱 I’m currently learning Java and Android Auto
+- 💞️ I’m looking to collaborate on Android Studio application development
 - 📫 How to reach me Clarence.moore1992@gmail.com
 - Get some
 
